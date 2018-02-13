@@ -1,2 +1,3 @@
-# hello
-golang
+# Hello
+
+Getting Started with GO
