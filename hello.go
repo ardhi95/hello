@@ -5,6 +5,6 @@ import (
 	"github.com/ardhi95/stringutil"
 )
 
-func main(){
-	fmt.Printf(stringutil.Reverse("!oG ,olleH"))
+func main() {
+	fmt.Println(stringutil.Reverse("!oG ,olleH"))
 }
